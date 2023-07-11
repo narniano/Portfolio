@@ -36,8 +36,6 @@ body {
   letter-spacing: -0.05rem;
 }
 
-
-
 /* Imagens */
 
 #html,
@@ -65,7 +63,8 @@ body {
 }
 
 #github,
-#linkedin, #mail {
+#linkedin,
+#mail {
   width: 25px;
   height: 25px;
   margin-right: 10px;
@@ -93,8 +92,6 @@ body {
   height: auto;
   border-radius: 50px;
 }
-
-
 
 /* Resto do código */
 
@@ -199,8 +196,8 @@ body {
   background-size: cover;
 }
 
-.card-cover:hover{
-    transform: scale(1.03);
+.card-cover:hover {
+  transform: scale(1.03);
 }
 
 .feature-icon-small {
